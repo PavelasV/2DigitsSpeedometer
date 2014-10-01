@@ -16,4 +16,4 @@ wiki of this project:
 
 https://github.com/PavelasV/2DigitsSpeedometer/wiki
 
--more info will be soon
+-more info will be soon available
