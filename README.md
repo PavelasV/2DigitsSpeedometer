@@ -8,3 +8,12 @@ info:
 http://en.wikipedia.org/wiki/Reed_switch
 http://en.wikipedia.org/wiki/Hall_effect_sensor
 http://playground.arduino.cc/Main/SevenSegmentLibrary
+
+
+
+
+wiki of this project:
+
+https://github.com/PavelasV/2DigitsSpeedometer/wiki
+
+-more info will be soon
