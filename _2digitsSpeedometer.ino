@@ -71,6 +71,6 @@ void displayMPH(){
 
 void loop(){ 
   displayKPH(); 
-  displayMPH();
+//  displayMPH();
   delay(5); 
 } 
