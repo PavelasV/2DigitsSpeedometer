@@ -1,8 +1,11 @@
-2DigitsSpeedometer
+2Digits Arduino Speedometer 
 ==================
+Speedometer is tested on Arduino Uno with AtMega328 chip.
+
+
 the SevSeg lib https://docs.google.com/file/d/0Bwrp4uluZCpNdE9oWTY0M3BncTA/edit
 
-I used old bike speedometer reed switch, but you can use a hall effect sensor for wheel movement tracking.
+I used old bike speedometer reed switch, but you can use a hall effect sensor or brand new reed switch for wheel movement tracking.
 
 info:
 http://en.wikipedia.org/wiki/Reed_switch
